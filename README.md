@@ -17,4 +17,4 @@
       <flashmethod>nisprog</flashmethod>
       <filesize>512G</filesize>
     </romid>
-*内部项目*  
+*日产内部项目*  
